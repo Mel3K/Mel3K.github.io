@@ -3,6 +3,39 @@ h2{color:BlueViolet}
 h3{color:BlueViolet}
 h4{color:DarkOrchid}
 h5{Color:DarkOrchid}
+h1{Color: DarkViolet}
+h2{color:BlueViolet}
+h3{color:BlueViolet}
+h4{color:DarkOrchid}
+h5{Color:DarkOrchid}
+
+li {list-style-type:square; color:Indigo}
+margin: 15% 10%
+background-color {lightgrey}
+
+body{font-family:Optima, Verdana, sans-serif;
+Margin:15%; 15%}
+
+
+
+h1{text-align:center
+}
+.img{
+  border-radius:50%;
+  width: 100px;
+  height: 100px;
+  display:block;
+  float:left:20px
+}
+.HR {width:50%
+Color:indigo}
+
+
+
+
+
+
+  
 
 li {list-style-type:square; color:Indigo}
 
