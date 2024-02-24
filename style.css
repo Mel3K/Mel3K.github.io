@@ -1,4 +1,4 @@
-
+ 
 h1{Color: DarkViolet}
 h2{color:BlueViolet}
 h3{color:BlueViolet}
@@ -21,7 +21,7 @@ h1{text-align:center
   display:block;
   float:left:20px
 }
-
+.header {border-bottom:5px solid #cccc}
 
 p.one{border-style:dotted; border-width:20px, bottom; 
 }
