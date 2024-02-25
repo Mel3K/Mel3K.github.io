@@ -13,16 +13,18 @@ body{font-family:Optima, Verdana, sans-serif;}
 
 h1{text-align:center
 }
-.img{
- border-radius:50%;
- width: 100px;
- height: 100px;
- display:block;
- float:left:20px
-}
-HR {70%}
+.HR {60%}
 
-p.one{border-style:dotted; border-width:20px, bottom; 
+ 
+.heading{text-align:center; border-bottom: groove; 60%;
+  
+  
+  
 }
 
-P.blocktext
+.experience{text-align:center;border-bottom: dotted; 
+  60%
+} border {3px;
+color:Indigo; 10 10 10 10
+}
+
