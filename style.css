@@ -1,4 +1,3 @@
- 
 h1{Color: DarkViolet}
 h2{color:BlueViolet}
 h3{color:BlueViolet}
@@ -15,19 +14,15 @@ body{font-family:Optima, Verdana, sans-serif;}
 h1{text-align:center
 }
 .img{
-  border-radius:50%;
-  width: 100px;
-  height: 100px;
-  display:block;
-  float:left:20px
+ border-radius:50%;
+ width: 100px;
+ height: 100px;
+ display:block;
+ float:left:20px
 }
-.header {border-bottom:5px solid #cccc}
+HR {70%}
 
 p.one{border-style:dotted; border-width:20px, bottom; 
 }
 
-P.blocktext 
-.HR {align:50%
-}
-.intro {text-align:center
-}
+P.blocktext
